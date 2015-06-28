@@ -5,6 +5,7 @@
 * Author:		Elokrainz Zhang
 * Email:		Elokrainz@gmail.com
 ************************************************************************/
+#include<cstring>
 #include<algorithm>
 
 namespace Elokrainz
