@@ -1,5 +1,5 @@
 /************************************************************************
-* Description:	float radix sort & (unsigned) int radix sort impletement by C++
+* Description:	float radix sort & (unsigned) int radix sort impletemented by C++
 * Version:		1.0
 * Date:			2015/06/28
 * Author:		Elokrainz Zhang
