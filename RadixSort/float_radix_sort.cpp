@@ -98,7 +98,8 @@ namespace Elokrainz
 	    // since the bigger the negative exponent, the smaller the number is. Should reverse all negative numbers  
 	    int left = -1, right = 0;
 	    for(right = 0; right < len; ++right) if(arr[right] >= 0) break;
-		while(++left < --right) std::swap(arr[left], arr[right]);
+
+	    while(++left < --right) std::swap(arr[left], arr[right]);
 
 	    delete [] int_arr;
 	}
